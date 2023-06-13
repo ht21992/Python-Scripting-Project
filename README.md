@@ -18,14 +18,13 @@ Project Steps/Requirements:
 - Create a seprate .json file with the meta data information about the ebook
 
 ## data Folder Before Running The Code
-![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/e7d9bc8e-050b-4941-9e05-4eea5c0b9ad7)
-
+![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/1e56e485-7384-4f0f-a724-868263033074)
 
 ## library Folder After Running The Code
-![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/75770198-9797-4388-8d57-30a2a28301fa)
+![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/0f484a3b-2162-4bb7-ae43-5df00fb7d989)
 
 ## A-Study-In-Scarlet.json
-![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/10cfa763-5d5d-4e27-8fab-4f3c0aa6e8db)
+![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/a6de4a5f-6f8b-4656-a631-eb82794da482)
 
 ## metadata.json
-![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/97460f3b-1525-48af-a9ca-467ad5ac85f2)
+![image](https://github.com/ht21992/Python-Scripting-Project/assets/47816410/22f19dba-48a3-4a3c-9880-791b18def09a)
